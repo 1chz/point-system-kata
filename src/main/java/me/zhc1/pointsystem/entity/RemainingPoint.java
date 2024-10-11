@@ -14,6 +14,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+// If the types and uses of points are divided, this table may require major changes.
 @Entity
 @Getter
 @Setter
